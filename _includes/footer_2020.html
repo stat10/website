@@ -1,0 +1,43 @@
+<footer class="site-footer">
+
+  <div class="wrap">
+    <div class="flex-c flex-jc-sb flex-a-c">
+      <h2 class="flex-c flex-v footer-heading">
+        <span class="footer-heading-harvard">Harvard</span>
+        <span class="flex-c">
+          <span class="footer-heading-stat">DS 10</span>
+          <span class="footer-heading-year">2020</span>
+        </span>
+      </h2>
+
+      <nav>
+        <ul class="flex-c">
+          {% assign spages = site.pages | where_exp: "item" , "item.path contains '2020'" | sort: 'order' %}
+
+          {% for spage in spages %}
+           {% unless spage.url == "/" or spage.url == "/redirects.json" or spage.exclude or spage.nomenu %}
+            <li>
+              <a
+                href="{{ spage.url | prepend: site.baseurl }}"
+                class="{% if page.url == spage.url %}active{% endif %}"
+              >
+                {{ spage.menu }}
+              </a>
+            </li>
+            {% endunless %}
+          {% endfor %}
+          <li>
+            <a href="https://canvas.harvard.edu/courses/67793">
+              Canvas
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+
+    <p class="attributions">
+      Logo and website design by <a href="https://lekschas.de">Fritz Lekschas</a>.
+    </p>
+  </div>
+
+</footer>
