@@ -20,21 +20,18 @@ Data science is about using data, analytics, and algorithms to gain insights and
 ### Course Sessions
 
 **Lectures & Labs:**
-Monday and Wednesday 3:00-5:00pm, Location: [Pierce 301](https://www.google.com/maps/place/Pierce+Hall/@42.3780874,-71.1192954,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3774113de44af:0x5966efcfd3aa5965!8m2!3d42.3780874!4d-71.1171014?hl=en)
-*DCE students:* Monday and Thursday 7:55-9:55pm, online video conference.
+_TBD_
+
+*First Class:*
+_TBD_
 
 **Office Hours:**
-Office hours are posted [here]({{ site.baseurl }}/schedule/#lab_oh_schedule).
+Office hours are posted [here]({{ site.baseurl }}/schedule/).
 
 **Lecture Resources:**
-Discussion forum on [Piazza](https://piazza.com/harvard/fall2019/cs171).
-Materials and grades on [Canvas](https://canvas.harvard.edu/courses/61741)
+Materials and grades on [Canvas](https://canvas.harvard.edu/courses/67793)
 
 
 ### Teaching Fellows
 
-- _Head TF:_ Anna Doe (Wizard of Oz in Awesomeness)
-
-- John Doe the 1st (Masters student in Design Engineering)
-- John Doe the 2nd (Masters student in Design Engineering)
-- John Doe the 3rd (Masters student in Design Engineering)
+_TBD_

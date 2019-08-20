@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
 
@@ -17,5 +17,12 @@
   {% include google_analytics.html %}
 
   </body>
+
+  <script>
+    setTimeout(function() {
+      var classes = document.body.getAttribute('class');
+      document.body.setAttribute('class', classes + ' ready');
+    }, 650);
+  </script>
 
 </html>
