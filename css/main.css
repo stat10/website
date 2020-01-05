@@ -6,17 +6,17 @@
 }
 
 ::-webkit-selection {
-  background-color: #d9005f;
+  background-color: #8c1c14;
   color: #f5f5f5;
 }
 
 ::-moz-selection {
-  background-color: #d9005f;
+  background-color: #8c1c14;
   color: #f5f5f5;
 }
 
 ::selection {
-  background-color: #d9005f;
+  background-color: #8c1c14;
   color: #f5f5f5;
 }
 
@@ -60,11 +60,11 @@ h4, h5, h6 {
 a, a:visited {
   padding: 0 0.15em;
   margin: 0 -0.15em;
-  color: #d9005f;
+  color: #8c1c14;
   text-decoration: none;
   border-radius: 0;
-  -webkit-box-shadow: inset 0 -1px 0 rgba(172, 11, 210, 0.33);
-          box-shadow: inset 0 -1px 0 rgba(172, 11, 210, 0.33);
+  -webkit-box-shadow: inset 0 -1px 0 rgba(140, 28, 20, 0.33);
+          box-shadow: inset 0 -1px 0 rgba(140, 28, 20, 0.33);
   -webkit-transition: color 0.15s cubic-bezier(0.25, 0.1, 0.25, 1),
               background 0.15s cubic-bezier(0.25, 0.1, 0.25, 1),
               border-radius 0.15s cubic-bezier(0.25, 0.1, 0.25, 1),
@@ -90,7 +90,7 @@ a, a:visited {
 
 a:hover {
   color: #f2f2f2;
-  background: #d9005f;
+  background: #8c1c14;
   border-radius: 0.2em;
 }
 
@@ -245,7 +245,7 @@ table th, table td {
 }
 
 .deadline {
-  background-color: #f09c9c;
+  background-color: #f3c5c2;
   font-weight: bold;
 }
 
@@ -438,8 +438,8 @@ table th, table td {
   z-index: 10;
   color: #f5f5f5;
   border-radius: 0.2em 0.2em 0 0;
-  -webkit-box-shadow: inset 0 0 0 1px #d9005f;
-          box-shadow: inset 0 0 0 1px #d9005f;
+  -webkit-box-shadow: inset 0 0 0 1px #8c1c14;
+          box-shadow: inset 0 0 0 1px #8c1c14;
   border-radius: 0;
 }
 
@@ -490,7 +490,7 @@ table th, table td {
 .site-nav .nav-hamburger-static {
   z-index: 3;
   padding: 0.75rem 0.5rem;
-  background: #d9005f;
+  background: #8c1c14;
   border-radius: 0.25rem;
 }
 
@@ -854,9 +854,9 @@ table th, table td {
 .site-footer nav a.active {
   z-index: 10;
   color: #f2f2f2;
-  background: #d9005f;
-  -webkit-box-shadow: inset 0 0 0 1px rgba(172, 11, 210, 0.33);
-          box-shadow: inset 0 0 0 1px rgba(172, 11, 210, 0.33);
+  background: #8c1c14;
+  -webkit-box-shadow: inset 0 0 0 1px rgba(140, 28, 20, 0.33);
+          box-shadow: inset 0 0 0 1px rgba(140, 28, 20, 0.33);
 }
 
 .site-footer nav a.active {
