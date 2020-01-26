@@ -11,19 +11,18 @@ Data science is about using data, analytics, and algorithms to gain insights and
 
 ### Instructors
 
-- [Joseph Blitzstein](https://statistics.fas.harvard.edu/people/joseph-k-blitzstein) (Professor of the Practice in Statistics in the Department of Statistics at Harvard University)
-- [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng) (Whipple V. N. Jones Professor of Statistics in the Department of Statistics at Harvard University)
-- [Hanspeter Pfister](http://vcg.seas.harvard.edu/people/hanspeter-pfister) (An Wang Professor of Computer Science in the School of Engineering and Applied Sciences at Harvard University)
-- [Liberty Vittert](https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=liberty.vittert) (Professor of Practice in Data Analytics at Washington University in St. Louis)
-
+- [Joseph Blitzstein](https://statistics.fas.harvard.edu/people/joseph-k-blitzstein)
+- [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng)
+- [Hanspeter Pfister](http://vcg.seas.harvard.edu/people/hanspeter-pfister)
+- [Liberty Vittert](https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=liberty.vittert)
 
 ### Course Sessions
 
 **Lectures & Labs:**
-_TBD_
+Monday, Wednesday, and Friday 3:00-4:15pm, Location: [Maxwell-Dworkin G115](https://www.google.com/maps/place/Maxwell-Dworkin,+33+Oxford+St,+Cambridge,+MA+02138/@42.3787959,-71.119543,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37741136f99f3:0xdee244d8cde0c0dc!8m2!3d42.3787959!4d-71.1173543?hl=en)
 
 *First Class:*
-_TBD_
+Monday, January 27, 2020
 
 **Office Hours:**
 Office hours are posted [here]({{ site.baseurl }}/schedule/).
@@ -31,7 +30,18 @@ Office hours are posted [here]({{ site.baseurl }}/schedule/).
 **Lecture Resources:**
 Materials and grades on [Canvas](https://canvas.harvard.edu/courses/67793)
 
-
 ### Teaching Fellows
+Salma Abuayyash (Head TF)
+Robert Haussman (Head TF)
+Salma Abdel Magid
+Laura Chapman
+Brian Chu
+Zach Dietz
+Ben Levy
+Wen Rui Liau
+Zhao ("Jao") Lyu
+Aditya Ranganathan
+Rylan Schaeffer
+Theo Walker
+Catherine Wu
 
-_TBD_
