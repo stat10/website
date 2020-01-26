@@ -25,23 +25,23 @@ Monday, Wednesday, and Friday 3:00-4:15pm, Location: [Maxwell-Dworkin G115](http
 Monday, January 27, 2020
 
 **Office Hours:**
-Office hours are posted [here]({{ site.baseurl }}/schedule/).
+Office hours aree posted [here]({{ site.baseurl }}/schedule/).
 
 **Lecture Resources:**
 Materials and grades on [Canvas](https://canvas.harvard.edu/courses/67793)
 
 ### Teaching Fellows
-Salma Abuayyash (Head TF)
-Robert Haussman (Head TF)
-Salma Abdel Magid
-Laura Chapman
-Brian Chu
-Zach Dietz
-Ben Levy
-Wen Rui Liau
-Zhao ("Jao") Lyu
-Aditya Ranganathan
-Rylan Schaeffer
-Theo Walker
-Catherine Wu
+- Salma Abuayyash (Head TF)
+- Robert Haussman (Head TF)
+- Salma Abdel Magid
+- Laura Chapman
+- Brian Chu
+- Zach Dietz
+- Ben Levy
+- Wen Rui Liau
+- Zhao ("Jao") Lyu
+- Aditya Ranganathan
+- Rylan Schaeffer
+- Theo Walker
+- Catherine Wu
 
