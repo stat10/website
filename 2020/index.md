@@ -25,7 +25,7 @@ Monday, Wednesday, and Friday 3:00-4:15pm, Location: [Maxwell-Dworkin G115](http
 Monday, January 27, 2020
 
 **Office Hours:**
-Office hours aree posted [here]({{ site.baseurl }}/schedule/).
+Office hours are posted [here]({{ site.baseurl }}/schedule/).
 
 **Lecture Resources:**
 Materials and grades on [Canvas](https://canvas.harvard.edu/courses/67793)
