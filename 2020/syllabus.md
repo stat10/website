@@ -7,7 +7,7 @@ order: 2
 
 ## Welcome to DS10!
 
-The course is officially listed as CS10 and STAT10, but we call it DS10 or Data Science 10. This course will meet the Harvard College requirement for Quantitative Reasoning with Data (QRD).
+The course is officially listed as CS10 and STAT10, but we call it DS10 or Data Science 10. The course will count towards the Harvard College Quantitative Reasoning with Data requirement.
 
 ### What is this class about?
 
