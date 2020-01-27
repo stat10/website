@@ -42,7 +42,7 @@ This course has NO prerequisites. However, please be aware that learning data sc
 
 We will be using one required textbook for this class to cover data science methodologies and an optional reference book for data science programming in Python.
 
-[The Art of Statistics: How to Learn from Data](https://www.amazon.com/David-Spiegelhalter/e/B07QGR8G5B?ref=sr_ntt_srch_lnk_1&qid=1579027964&sr=8-1), by David Spiegelhalter (**Required**)
+[The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=), by David Spiegelhalter (**Required**)
 This book gives a good overview of many of the issues that come up in data science. David Spiegelhalter draws on real world examples to introduce concepts from statistics and data science. We will use this book for (mandatory) weekly readings.
 
 [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/ref=sr_1_4?keywords=data+science+python&qid=1579027726&s=books&sr=1-4), by Jake VanderPlas (Optional)
