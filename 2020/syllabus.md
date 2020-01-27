@@ -5,9 +5,9 @@ menu: Syllabus
 order: 2
 ---
 
-## Welcome to DS10! 
+## Welcome to DS10!
 
-The course is officially listed as CS10 and STAT10, but we call it DS10 or Data Science 10. This course will meet the Harvard College requirement for Quantitative Reasoning with Data (QRD). 
+The course is officially listed as CS10 and STAT10, but we call it DS10 or Data Science 10. This course will meet the Harvard College requirement for Quantitative Reasoning with Data (QRD).
 
 ### What is this class about?
 
@@ -30,7 +30,7 @@ After completion of this course you will be able to:
 
 ### Limited Enrollment
 
-Because this is the first year we are teaching DS10, and to provide the best possible learning experience, the course is limited to 100 students. If you are interested in joining this course please fill out [this survey](https://forms.gle/CWG6j4qsiFb6gDRt5) by **Wednesday, January 29, 11:59 pm EST**. We will notify you on Friday, January 31. Because of the transdisciplinary nature of data science, we will use this survey to assemble a diverse class. 
+Because this is the first year we are teaching DS10, and to provide the best possible learning experience, the course is limited to 100 students. If you are interested in joining this course please fill out [this survey](https://forms.gle/CWG6j4qsiFb6gDRt5) by **Wednesday, January 29, 11:59 pm EST**. We will notify you on Friday, January 31. Because of the transdisciplinary nature of data science, we will use this survey to assemble a diverse class.
 
 ### Prerequisites
 
@@ -38,13 +38,15 @@ This course has NO prerequisites. However, please be aware that learning data sc
 
 ### Textbooks
 
+![]({{site.baseurl}}/assets/images/books.png)
+
 We will be using one required textbook for this class to cover data science methodologies and an optional reference book for data science programming in Python.
 
 [The Art of Statistics: How to Learn from Data](https://www.amazon.com/David-Spiegelhalter/e/B07QGR8G5B?ref=sr_ntt_srch_lnk_1&qid=1579027964&sr=8-1), by David Spiegelhalter (**Required**)
-This book gives a good overview of many of the issues that come up in data science. David Spiegelhalter draws on real world examples to introduce concepts from statistics and data science. We will use this book for (mandatory) weekly readings. 
+This book gives a good overview of many of the issues that come up in data science. David Spiegelhalter draws on real world examples to introduce concepts from statistics and data science. We will use this book for (mandatory) weekly readings.
 
 [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/ref=sr_1_4?keywords=data+science+python&qid=1579027726&s=books&sr=1-4), by Jake VanderPlas (Optional)
-We are providing Python notebooks that will cover all the programming material that you need for this course. However, if you are interested in delving deeper into Python as a data science programming language, we recommend this book. 
+We are providing Python notebooks that will cover all the programming material that you need for this course. However, if you are interested in delving deeper into Python as a data science programming language, we recommend this book.
 
 You can purchase both books from the Coop bookstore or any other online retailer.
 
@@ -54,15 +56,15 @@ DS10 has four main threads:
 - Discussions of real-life case studies that show the data science process at work.
 - Learning fundamental methods and tools of data science.
 - Weekly labs to teach you Python programming skills for data science.
-- Practicing the data science process by conducting projects from beginning to end. 
+- Practicing the data science process by conducting projects from beginning to end.
 
 ### Lectures
 
-The class meets twice a week for lectures and joint class activities. Attending lectures is a crucial component of learning the material presented in this course. Please arrive on time, as we will start promptly with a short graded quiz about the required readings. At the end of each lecture we will ask you to fill out and submit a one-minute reflection to collect feedback. Filling in the one-minute reflection will count towards your participation grade. 
+The class meets twice a week for lectures and joint class activities. Attending lectures is a crucial component of learning the material presented in this course. Please arrive on time, as we will start promptly with a short graded quiz about the required readings. At the end of each lecture we will ask you to fill out and submit a one-minute reflection to collect feedback. Filling in the one-minute reflection will count towards your participation grade.
 
 ### Labs
 
-You are required to attend weekly programming labs during regular class meeting times on Fridays. Labs are interactive tutorials using notebooks that give you an introduction to programming data science in Python. There will be multiple TFs at hand to help you complete the Python notebooks. You will work in pairs, and you will hand in one lab solution per pair. Completed lab notebooks have to be submitted, and we will release lab solutions after the due date. 
+You are required to attend weekly programming labs during regular class meeting times on Fridays. Labs are interactive tutorials using notebooks that give you an introduction to programming data science in Python. There will be multiple TFs at hand to help you complete the Python notebooks. You will work in pairs, and you will hand in one lab solution per pair. Completed lab notebooks have to be submitted, and we will release lab solutions after the due date.
 
 ### Readings & Quizzes
 
@@ -70,11 +72,11 @@ Each lecture includes required readings to ensure that you are prepared for the 
 
 ### Homework
 
-Weekly homework assignments are going to provide an opportunity to improve your data science and programming skills. See the homework as an opportunity to learn, and not to “earn points”. The homework will be graded holistically to reflect this objective. Each student needs to hand in their own homework solution and adhere to our collaboration policy (see below). 
+Weekly homework assignments are going to provide an opportunity to improve your data science and programming skills. See the homework as an opportunity to learn, and not to “earn points”. The homework will be graded holistically to reflect this objective. Each student needs to hand in their own homework solution and adhere to our collaboration policy (see below).
 
 ### Design Sprint
 
-A big part of the lectures will be a design sprint. You will work in groups of 2-3 students to ask questions, explore data, and communicate your findings for a given topic and pre-defined dataset over the course of several weeks. The design sprint is good practice for the final project for which you will be using the same process. Your team will submit graded design sprint milestones as part of your homework. 
+A big part of the lectures will be a design sprint. You will work in groups of 2-3 students to ask questions, explore data, and communicate your findings for a given topic and pre-defined dataset over the course of several weeks. The design sprint is good practice for the final project for which you will be using the same process. Your team will submit graded design sprint milestones as part of your homework.
 
 ### Final Project
 
@@ -82,7 +84,7 @@ A major part of the course is a final data science project. You will work in sma
 
 ### Peer Assessment
 
-Assessment of your participation in the projects for a large class is challenging. We will use peer evaluation to allow you to assess the members of your project teams as well as yourself. Peer assessment is an element of the final project (and thus part of your project grade). 
+Assessment of your participation in the projects for a large class is challenging. We will use peer evaluation to allow you to assess the members of your project teams as well as yourself. Peer assessment is an element of the final project (and thus part of your project grade).
 
 ## Course Policies
 
@@ -95,11 +97,11 @@ This course can be taken for a letter grade only, there is no pass/fail option. 
 - Design Sprint (15%)
 - Group Project (35%) (including peer assessment)
 
-Participation includes reading quizzes, lecture attendance, participating in in-class activities, and submitting one-minute reflections. 
+Participation includes reading quizzes, lecture attendance, participating in in-class activities, and submitting one-minute reflections.
 
 Labs includes lab attendance, actively working in pairs, and submitting lab notebooks.
 
-We will drop your lowest reading quiz score and your lowest homework grade. 
+We will drop your lowest reading quiz score and your lowest homework grade.
 
 Design sprint and group project receive team grades. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see above).
 
@@ -124,7 +126,7 @@ You may discuss your homework and labs with other students in the class, but you
 
 ### Devices in Class
 
-We will use smartphones and laptops throughout the course to facilitate activities and project work in-class. However, research and student feedback clearly shows that using devices on non-class related activities not only harms your own learning, but other students’ learning as well. Therefore, we only allow device usage during activities that require devices. At all other times, you should not be using your device. 
+We will use smartphones and laptops throughout the course to facilitate activities and project work in-class. However, research and student feedback clearly shows that using devices on non-class related activities not only harms your own learning, but other students’ learning as well. Therefore, we only allow device usage during activities that require devices. At all other times, you should not be using your device.
 
 ### Accessibility
 
