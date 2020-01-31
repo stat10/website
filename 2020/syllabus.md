@@ -105,7 +105,9 @@ We will drop your lowest reading quiz score and your lowest homework grade.
 
 Design sprint and group project receive team grades. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see above).
 
-Any concerns about grading errors must be noted in writing and submitted to a TF within one week of receiving the grade.
+### Regrading Policy
+
+Any concerns about grading errors must be noted in writing. Requests for regrading have to be submitted **within 2 days** of when you received your graded assignment. Use a dedicated private channel on Piazza and explain in detail why you are requesting a regrade. We will reply within a week. Use the same thread to communicate about this request. Please note that regrading may also result in you losing points. 
 
 ### Due Dates & Late Policy
 
