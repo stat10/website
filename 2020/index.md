@@ -3,7 +3,7 @@ layout: page_2020
 title: Home
 menu: Home
 order: 1
-redirect_from: "/"
+
 ---
 
 Data science is about using data, analytics, and algorithms to gain insights and make useful predictions. This course will take a holistic approach to helping students understand the key factors involved, from data collection and exploratory data analysis to modeling, communication, and effective teamwork. Case studies will provide students with hands-on experience with the data science process. Emphasis will be on merging analytical skills with critical thinking. The course counts towards the Gen Ed ‘Quantitative Reasoning’ requirement.
