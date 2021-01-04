@@ -7,7 +7,7 @@ order: 2
 
 ## Welcome to DS10! 
 
-Welcome to DS10! The course is officially listed as CS10 and STAT10, but we call it DS10 or Data Science 10. This course will meet the Harvard College requirement for Quantitative Reasoning with Data (QRD). 
+The course is officially listed as CS10 and STAT10, but we call it DS10 or Data Science 10. This course will meet the Harvard College requirement for Quantitative Reasoning with Data (QRD). 
 
 ### Instructors
 - Hanspeter Pfister, An Wang Professor of Computer Science, SEAS Harvard
