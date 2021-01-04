@@ -76,7 +76,6 @@ You will be reading one chapter each week in the required textbook for this clas
 
 ![]({{site.baseurl}}/assets/images/books.png)
 
-We will be using one required textbook for this class to cover data science methodologies and an optional reference book for data science programming in Python.
 
 [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=), by David Spiegelhalter (**Required**)
 David Spiegelhalter draws on real-world examples to introduce concepts from statistics and data science. The book also gives a good overview of many of the ethical issues that come up in data science. You can purchase the book from the Coop bookstore or any other online retailer.
