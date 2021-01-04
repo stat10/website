@@ -7,26 +7,41 @@ order: 2
 
 ## Welcome to DS10! TBD
 
-The course is officially listed as CS10 and STAT10, but we call it DS10 or Data Science 10. The course will count towards the Harvard College Quantitative Reasoning with Data requirement.
+Welcome to DS10! The course is officially listed as CS10 and STAT10, but we call it DS10 or Data Science 10. This course will meet the Harvard College requirement for Quantitative Reasoning with Data (QRD). 
+
+### Instructors
+Hanspeter Pfister, An Wang Professor of Computer Science, SEAS Harvard
+Liberty Vittert, Professor of the Practice of Data Science at the Olin Business School, Washington University, St. Louis 
+
+### Staff
+Salma Abdel Magid, Head TF
+Brian Chu
+David Assaraf 
+
+### Live Class & Programming Labs
+Tu / Th 1:30-2:45 pm ET
+
 
 ### What is this class about?
 
-This course is about combining data, statistical methods, and computation to gain insights and make useful inferences and predictions. This course will take a holistic approach to helping you understand the key elements of data science, from data collection and exploratory data analysis to modeling, evaluation, communication of results, and telling a data story. You will be discussing case studies, developing Python skills for data science, and working on team projects in design sprints to provide you with hands-on experience with the data science process. Throughout the course we will emphasize critical analytical thinking skills and data acumen.
+This course is about combining data, statistical methods, and computation to gain insights and make useful inferences and predictions. This course will take a holistic approach to help you understand the key elements of data science, from data collection and exploratory data analysis to modeling, evaluation, communication of results, and telling a data story. You will be discussing case studies, developing Python skills for data science, and working on team projects to provide you with hands-on experience with the data science process. Throughout the course, we will emphasize critical analytical thinking skills, data ethics, and data acumen.
 
 By the end of the course, you will be able to use data and reproducible data science methods to answer questions and guide decision-making. If you want to understand how modern data science works, this is the course for you!
+
 
 ### Learning Outcomes
 
 After completion of this course you will be able to:
 - Articulate core objectives and quantitative goals to be addressed using data
-- Appreciate the complexity of the data science processes
-- Understand and apply simple but powerful data science tools
-- Use statistics and visualization to effectively explore data
+- Apply a structured design process to data science projects
+- Use visualizations to effectively explore data
+- Apply powerful data science tools from machine learning and statistics
 - Identify and appreciate the strengths and limitations of data science methods
-- Communicate the outcome of data analysis with effective data stories
+- Communicate the outcome of the data science process with effective data stories
 - Apply basic programming skills for data science in Python
 - Judge and incorporate ethical considerations in the data science process
-- Work efficiently in teams on data science case studies and a final project
+- Work constructively as a member of a team to carry out a complex project
+
 
 ### Limited Enrollment
 
