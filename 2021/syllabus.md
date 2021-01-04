@@ -124,107 +124,55 @@ The teaching fellows will provide online office hours at several different times
 ### Grading
 This course can be taken for a letter grade only, there is no pass/fail option. The course grade comprises:
 
-Participation (20%)
-Quizzes (10%)
-Homework Assignments (20%)
-Guided Project (25%)
-Final Project (25%)
+- Participation (20%)
+- Quizzes (10%)
+- Homework Assignments (20%)
+- Guided Project (25%)
+- Final Project (25%)
 
 Group projects receive team grades. In general, we do not anticipate that the grades for each team member will be different. However, we reserve the right to assign different grades to each team member based on peer assessments (see above).
 
-Your participation grade includes watching lecture videos, participation in live classes, submitting one-minute reflections, and being helpful to other students on Piazza and during labs. We will drop your lowest quiz score. Any concerns about grading errors must be clearly articulated in writing and sent to sabdelmagid@g.harvard.edu <staff@ds10.org> within one week of receiving the grade.
+Your participation grade includes watching lecture videos, participation in live classes, submitting one-minute reflections, and being helpful to other students on Piazza and during labs. We will drop your lowest quiz score. Any concerns about grading errors must be clearly articulated in writing and sent to <sabdelmagid@g.harvard.edu> within one week of receiving the grade.
 
 
+### Course Policies
 
+### Zoom Norms
+For live classes and programming labs on Zoom, please take care to:
+- work through and complete the week’s asynchronous materials and weekly quiz, 
+- participate from a quiet office or similar space (and not from car, plane, or train), and
+- participate with your camera turned on, using horizontal (not vertical) video.
 
+#### Due Dates & Late Policy
+No submissions (labs, homework, quizzes, project milestones, etc.) will be accepted for credit after the deadline. Homework will be posted on Mondays and will be due the following Sunday. All submissions are due at 11:59 pm ET on the due date.
 
+If you have a verifiable medical condition or other special circumstances that interfere with your coursework please let us know as soon as possible. You will need to provide a written note or email from a medical professional or your resident dean confirming your inability to participate in course work.
 
+### Missing Class or Labs
+Because of the emphasis on activities and teamwork, it is important that you attend and proactively participate during the live classes and labs each week. We understand, however, that certain factors may occasionally interfere with your ability to attend these live sessions. You can miss class or labs up to four times during the semester without any negative consequences. After that, it will affect your participation grade. Please let us know as soon as possible if you have reoccurring extenuating circumstances that affect your ability to attend class. We will ask you for an email confirmation from your resident dean and will try to work out an agreeable solution with you and your team.
 
-
-
-### Readings & Quizzes
-
-Each lecture includes required readings to ensure that you are prepared for the activities in class. You are expected to complete the assigned readings before class. Short online quizzes given at the beginning of each class will test your knowledge of the readings. Reading quizzes are part of your final grade.
-
-### Homework
-
-Weekly homework assignments are going to provide an opportunity to improve your data science and programming skills. See the homework as an opportunity to learn, and not to “earn points”. The homework will be graded holistically to reflect this objective. Each student needs to hand in their own homework solution and adhere to our collaboration policy (see below).
-
-### Design Sprint
-
-A big part of the lectures will be a design sprint. You will work in groups of 2-3 students to ask questions, explore data, and communicate your findings for a given topic and pre-defined dataset over the course of several weeks. The design sprint is good practice for the final project for which you will be using the same process. Your team will submit graded design sprint milestones as part of your homework.
-
-### Final Project
-
-A major part of the course is a final data science project. You will work in small groups of 2-3 students to complete a data science project that answers questions you have about some topic of your own choosing. You will follow the same design sprint process that we introduced in class. The final result will be a Python notebook and a data story (article) with a 2-minute video that communicate your project findings to a general audience. A small number of projects will win a Best Project prize.
-
-### Peer Assessment
-
-Assessment of your participation in the projects for a large class is challenging. We will use peer evaluation to allow you to assess the members of your project teams as well as yourself. Peer assessment is an element of the final project (and thus part of your project grade).
-
-## Course Policies
-
-### Grading
-
-This course can be taken for a letter grade only, there is no pass/fail option. The course grade comprises:
-- Participation (20%)
-- Labs (10%)
-- Homework Assignments (20%)
-- Design Sprint (15%)
-- Group Project (35%) (including peer assessment)
-
-Participation includes reading quizzes, lecture attendance, participating in in-class activities, and submitting one-minute reflections.
-
-Labs includes lab attendance, actively working in pairs, and submitting lab notebooks.
-
-We will drop your lowest reading quiz score and your lowest homework grade.
-
-Design sprint and group project receive team grades. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see above).
-
-### Regrading Policy
-
-Any concerns about grading errors must be noted in writing. Requests for regrading have to be submitted **within 2 days** of when you received your graded assignment. Use a dedicated private channel on Piazza and explain in detail why you are requesting a regrade. We will reply within a week. Use the same thread to communicate about this request. Please note that regrading may also result in you losing points. 
-
-### Due Dates & Late Policy
-
-No submissions (labs, homework, quizzes, project milestones, etc.) will be accepted for credit after the deadline. Homeworks will be posted on Fridays and will be due the following Friday. Lab notebooks are due on Mondays. All submissions are due at 11:59 pm EST on the due date.
-
-If you have a verifiable medical condition that interferes with your coursework please let us know as soon as possible. You will need to provide a written note from a medical professional confirming your inability to participate in course work.
 
 ### Collaboration Policy
+We expect you to adhere to the Harvard Honor Code at all times. Failure to adhere to the honor code and our policies may result in serious penalties, up to and including automatic failure in the course and reference to the ad board. 
 
-We expect you to adhere to the {Harvard Honor Code}[URL] at all times. Failure to adhere to the honor code and our policies may result in serious penalties, up to and including automatic failure in the course and reference to the ad board.
+You may discuss your homework and labs with other students, but you are expected to be intellectually honest and give credit where credit is due. In particular:
 
-You may discuss your homework and labs with other students in the class, but you are expected to be intellectually honest and give credit where credit is due. In particular:
-- You have to write your homework solutions entirely on your own.
-- You cannot share written materials or code for homework with anyone else.
-- You may not submit the same or similar work to this course that you have submitted or will submit to another course.
-- You may not provide or make available solutions to individuals who take or may take this course in the future.
-- You may use third-party libraries and example code so long as you give proper attribution. Do not remove any original copyright notices and headers.
+- if you work on labs in pairs, you may submit the same lab notebook as your partner, but you must add their name to your notebook submission;
+- you have to complete your homework and weekly quizzes entirely on your own;
+- you cannot share your homework code with anyone else, including on Piazza;
+- you may not submit the same or similar work to this course that you have submitted or will submit to another; and
+- you may not provide or make available solutions to individuals who take or may take this course in the future.
 
-### Devices in Class
+If the assignment allows it and for your projects, you may use third-party libraries and example code, so long as the material is available to all students in the class and you give proper attribution. Do not remove any original copyright notices and headers.
 
-We will use smartphones and laptops throughout the course to facilitate activities and project work in-class. However, research and student feedback clearly shows that using devices on non-class related activities not only harms your own learning, but other students’ learning as well. Therefore, we only allow device usage during activities that require devices. At all other times, you should not be using your device.
 
 ### Accessibility
-
-Any student receiving accommodations through the Accessible Education Office should email or present their AEO letter to one of the instructors as soon as possible. Failure to do so may prevent us from making appropriate arrangements.
-
-## Course Resources
-
-### Online Materials
-
-All class handouts, slides, homework, labs, and required readings will be posted on Canvas.
-
-### Discussion Forum
-
-We use Piazza as our discussion forum and for all announcements, so it is important that you are signed up as soon as possible. Piazza should always be your first resource for seeking answers to your questions. You can also post privately so that only the staff sees your message.
-
-### Office Hours
-
-The TFs will provide office hours for questions that you might have throughout the semester. As office hours are usually heavily attended, please consult Piazza as a first option to get help.
+Any student receiving accommodations through the Accessible Education Office should email or present their AEO letter to sabdelmagid@g.harvard.edu <staff@ds10.org> as soon as possible. Failure to do so may prevent us from making appropriate arrangements.
 
 ### Credits
+The first version of this course was developed 2019-2020 by Joe Blitzstein, Liberty Vittert, Xiao-Li Meng, Hanspeter Pfister, Allen Downey, Salma Abu Ayash, Salma Abdel Magid, Robert Haussman, and Aditya Ranganathan with generous support from the SEAS Learning INCubator (LINC). Most programming lab notebooks were developed by Allen Downey. The course design and materials greatly benefited from the students who took Harvard STAT250 in 2019. We have heavily drawn on materials and examples found online and tried our best to give credit by citing the original sources. Please contact us if you find materials where credit is missing or that you would rather have removed.
 
-This course has been developed by the instructors together with Salma Abu Ayash, Salma Abdel Magid, Allen Downey, Robert Haussman, and Aditya Ranganathan. Hanspeter Pfister has received generous support to develop this course through a 2019 [SEAS Learning Incubator](https://linc.seas.harvard.edu) fellowship. All lab notebooks were developed by [Prof. Allen Downey](http://www.allendowney.com/wp/), who spent fall 2019 as a visitor at Harvard and heavily influenced the design of the course for the better. The course design greatly benefited from the students who took the 2019 Harvard [STAT250 course](https://stat250.org/2019/). We have drawn on materials and examples found online and tried our best to give credit by citing the original sources. Please contact us if you find materials where credit is missing or that you would rather have removed.
+### Anonymous Feedback
+Please use this survey to give us feedback on any aspect of the class, thank you! https://harvard.az1.qualtrics.com/jfe/form/SV_06TUbRWkS3sHYe9
+
 
