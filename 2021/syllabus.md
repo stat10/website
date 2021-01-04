@@ -5,18 +5,18 @@ menu: Syllabus
 order: 2
 ---
 
-## Welcome to DS10! TBD
+## Welcome to DS10! 
 
 Welcome to DS10! The course is officially listed as CS10 and STAT10, but we call it DS10 or Data Science 10. This course will meet the Harvard College requirement for Quantitative Reasoning with Data (QRD). 
 
 ### Instructors
-Hanspeter Pfister, An Wang Professor of Computer Science, SEAS Harvard
-Liberty Vittert, Professor of the Practice of Data Science at the Olin Business School, Washington University, St. Louis 
+- Hanspeter Pfister, An Wang Professor of Computer Science, SEAS Harvard
+- Liberty Vittert, Professor of the Practice of Data Science at the Olin Business School, Washington University, St. Louis 
 
 ### Staff
-Salma Abdel Magid, Head TF
-Brian Chu
-David Assaraf 
+- Salma Abdel Magid, Head TF
+- Brian Chu
+- David Assaraf 
 
 ### Live Class & Programming Labs
 Tu / Th 1:30-2:45 pm ET
@@ -42,28 +42,48 @@ After completion of this course you will be able to:
 - Judge and incorporate ethical considerations in the data science process
 - Work constructively as a member of a team to carry out a complex project
 
+### Course Format
+DS10 2021 will be all online with live Zoom classes, self-guided labs, and group projects. All materials and assignments will be available on Canvas. Each of the course components is discussed in more detail below. Here is the weekly rhythm of the course:
 
-### Limited Enrollment
+#### Tuesday
+- Attend the mandatory live class (1:30-2:45 pm ET, 75 min) to participate in activities, discussions, and projects in breakout groups. Class attendance is mandatory.
+- Before each class, you will be asked to complete an online quiz that tests your understanding of the asynchronous materials for that week.
+#### Thursday
+- Attend the mandatory programming lab (1:30-2:45 pm ET, 75 min) where you will work in pairs on self-guided lab notebooks to learn Python for data science. TFs will be available to help you. Lab attendance is mandatory. 
+- Before each lab, you will be asked to complete an online quiz that tests your understanding of the programming concepts that you have learned so far. 
+#### Throughout the week
+- Prepare for next week’s labs and live classes by going through asynchronous materials (lecture videos, articles, websites, etc.) and read one chapter each week in the Spiegelhalter textbook. 
+- Work on weekly homework assignments, which include finishing your lab notebooks, programming exercises, and work for your group project. 
+- Schedule office hours with the TFs to get help with the labs and homework assignments.
+- Overall, expect to spend about 10 hours on asynchronous materials, homework, and project work outside of labs and classes. 
+#### Sunday
+- Hand in your homework assignments, lab notebooks, and project milestones.
+- Watch a quick video (2-3 min) to get an idea of what we will cover each week.
 
-Because this is the first year we are teaching DS10, and to provide the best possible learning experience, the course is limited to 100 students. If you are interested in joining this course please fill out [this survey](https://forms.gle/CWG6j4qsiFb6gDRt5) by **Wednesday, January 29, 11:59 pm EST**. We will notify you on Friday, January 31. Because of the transdisciplinary nature of data science, we will use this survey to assemble a diverse class.
+
+
+### Limited Enrollment 
+To provide the best possible online learning experience during live classes we have limited enrollment in the course. If you are interested in joining this course please fill out the [enrollment survey](https://forms.gle/3pVCgxxShoxm3DxE7)  between January 13 and January 18, 2021. We will notify you by January 20 before the course registration deadline on January 21. 
+
 
 ### Prerequisites
 
-This course has NO prerequisites. However, please be aware that learning data science and a new programming language like Python is a time consuming process!
+This course has NO prerequisites. However, please be aware that learning data science and a new programming language like Python is a time-consuming process! This course is intended for students without programming experience. The purpose of the weekly labs is to introduce basic programming concepts at a high level. By the end of the semester, students will be equipped with the programming skills required to carry out a data science project in Python using Google Colab.
+
 
 ### Textbooks
+You will be reading one chapter each week in the required textbook for this class to cover data science methodologies.
 
 ![]({{site.baseurl}}/assets/images/books.png)
 
 We will be using one required textbook for this class to cover data science methodologies and an optional reference book for data science programming in Python.
 
 [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=), by David Spiegelhalter (**Required**)
-This book gives a good overview of many of the issues that come up in data science. David Spiegelhalter draws on real world examples to introduce concepts from statistics and data science. We will use this book for (mandatory) weekly readings.
+David Spiegelhalter draws on real-world examples to introduce concepts from statistics and data science. The book also gives a good overview of many of the ethical issues that come up in data science. You can purchase the book from the Coop bookstore or any other online retailer.
 
-[Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/ref=sr_1_4?keywords=data+science+python&qid=1579027726&s=books&sr=1-4), by Jake VanderPlas (Optional)
-We are providing Python notebooks that will cover all the programming material that you need for this course. However, if you are interested in delving deeper into Python as a data science programming language, we recommend this book.
+An optional reference book for data science programming in Python:
+[Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/ref=sr_1_4?keywords=data+science+python&qid=1579027726&s=books&sr=1-4), by Jake VanderPlas (Optional). We are providing Python notebooks that will cover all the programming material that you need for this course. However, if you are interested in delving deeper into Python as a data science programming language, we recommend this book.
 
-You can purchase both books from the Coop bookstore or any other online retailer.
 
 ## Course Components
 
@@ -71,15 +91,56 @@ DS10 has four main threads:
 - Discussions of real-life case studies that show the data science process at work.
 - Learning fundamental methods and tools of data science.
 - Weekly labs to teach you Python programming skills for data science.
-- Practicing the data science process by conducting projects from beginning to end.
+- Practicing the data science process by conducting projects from beginning to end. 
 
-### Lectures
 
-The class meets twice a week for lectures and joint class activities. Attending lectures is a crucial component of learning the material presented in this course. Please arrive on time, as we will start promptly with a short graded quiz about the required readings. At the end of each lecture we will ask you to fill out and submit a one-minute reflection to collect feedback. Filling in the one-minute reflection will count towards your participation grade.
+### Live Classes
 
-### Labs
+The class meets every Tuesday during a live Zoom call for joint class activities. Attending these live sessions is mandatory and a crucial component of learning the material in this course. Please arrive on time, as we will start promptly. Before each class, you will be asked to complete an online quiz that tests your understanding of the asynchronous materials for that week. At the end of each class, we will ask you to fill out and submit a one-minute reflection to collect feedback.
 
-You are required to attend weekly programming labs during regular class meeting times on Fridays. Labs are interactive tutorials using notebooks that give you an introduction to programming data science in Python. There will be multiple TFs at hand to help you complete the Python notebooks. You will work in pairs, and you will hand in one lab solution per pair. Completed lab notebooks have to be submitted, and we will release lab solutions after the due date.
+
+### Programming Labs
+
+You will attend mandatory online programming labs on Thursdays. Labs are interactive tutorials using notebooks that give you an introduction to programming data science in Python. You are allowed to work in pairs, and TFs will be available to help you. Completed lab notebooks need to be handed in with the homework each week. Solutions to labs will be made public the week after the lab has been published. Before each lab, you will be asked to complete a quiz that tests your understanding of the programming concepts you learned so far. At the end of each lab, we will ask you to fill out and submit a one-minute reflection to collect feedback.
+
+### Asynchronous Materials
+In preparation for class each week, you will work on your own through asynchronous materials (lecture videos, websites, articles, book chapters, etc.) to ensure that you are prepared for the activities in class and the programming labs. You are expected to read and watch these materials posted on Canvas each week. 
+
+
+### Homework
+Weekly homework assignments are going to provide an opportunity to improve your data science and programming skills. Homework is due every Sunday. See the homework as an opportunity to learn, and not to “earn points”. Each student needs to hand in their own homework solution and adhere to our collaboration policy (see below). You can discuss solutions to homework assignments with your TFs during office hours, they will not be posted publicly.
+
+
+### Group Projects
+A big part of the course will be group projects. You will work in teams of 2-3 students to conduct two data science projects with a series of graded milestones over the course of several weeks (see course schedule). First, you will work on a guided project in random teams assigned by us. The guided project will familiarize you with the data science process. After the guided project, you will work on a final project for which you can choose your own team. You can either choose to continue to work on your guided project, or you can propose a new data science project of your choice. A small number of projects will win a Best Project prize (Swiss chocolate) at the end of the semester.
+
+### Peer Assessments
+Assessment of your participation in the projects is challenging. We will use peer evaluation to allow you to assess the members of your project teams as well as yourself. Peer assessments will count towards your project grades. 
+
+### Office Hours & Piazza
+The teaching fellows will provide online office hours at several different times each week for questions you may have. We will use Piazza as our discussion forum and for all announcements, so it is important that you are signed up as soon as possible. Piazza should always be your first resource for seeking answers to your questions. You can also post privately so that only the course staff sees your message.
+
+
+### Grading
+This course can be taken for a letter grade only, there is no pass/fail option. The course grade comprises:
+
+Participation (20%)
+Quizzes (10%)
+Homework Assignments (20%)
+Guided Project (25%)
+Final Project (25%)
+
+Group projects receive team grades. In general, we do not anticipate that the grades for each team member will be different. However, we reserve the right to assign different grades to each team member based on peer assessments (see above).
+
+Your participation grade includes watching lecture videos, participation in live classes, submitting one-minute reflections, and being helpful to other students on Piazza and during labs. We will drop your lowest quiz score. Any concerns about grading errors must be clearly articulated in writing and sent to sabdelmagid@g.harvard.edu <staff@ds10.org> within one week of receiving the grade.
+
+
+
+
+
+
+
+
 
 ### Readings & Quizzes
 
