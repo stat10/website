@@ -167,12 +167,12 @@ If the assignment allows it and for your projects, you may use third-party libra
 
 
 ### Accessibility
-Any student receiving accommodations through the Accessible Education Office should email or present their AEO letter to sabdelmagid@g.harvard.edu <staff@ds10.org> as soon as possible. Failure to do so may prevent us from making appropriate arrangements.
+Any student receiving accommodations through the Accessible Education Office should email or present their AEO letter to <sabdelmagid@g.harvard.edu> as soon as possible. Failure to do so may prevent us from making appropriate arrangements.
 
 ### Credits
 The first version of this course was developed 2019-2020 by Joe Blitzstein, Liberty Vittert, Xiao-Li Meng, Hanspeter Pfister, Allen Downey, Salma Abu Ayash, Salma Abdel Magid, Robert Haussman, and Aditya Ranganathan with generous support from the SEAS Learning INCubator (LINC). Most programming lab notebooks were developed by Allen Downey. The course design and materials greatly benefited from the students who took Harvard STAT250 in 2019. We have heavily drawn on materials and examples found online and tried our best to give credit by citing the original sources. Please contact us if you find materials where credit is missing or that you would rather have removed.
 
 ### Anonymous Feedback
-Please use this survey to give us feedback on any aspect of the class, thank you! https://harvard.az1.qualtrics.com/jfe/form/SV_06TUbRWkS3sHYe9
+Please use this [anonymous survey](https://harvard.az1.qualtrics.com/jfe/form/SV_06TUbRWkS3sHYe9) to give us feedback on any aspect of the class, thank you! 
 
 
