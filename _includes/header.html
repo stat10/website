@@ -57,7 +57,7 @@
         </div>
 
         <ul class="no-list-style flex-c">
-          {% assign spages = site.pages | where_exp: "item" , "item.path contains '2020'" | sort: 'order' %}
+          {% assign spages = site.pages | where_exp: "item" , "item.path contains '2021'" | sort: 'order' %}
 
           {% for spage in spages %}
             {% unless spage.url == "/" or spage.url == "/redirects.json" or spage.exclude or spage.nomenu %}
@@ -72,7 +72,7 @@
             {% endunless %}
           {% endfor %}
           <li class="flex-g-1">
-            <a href="https://canvas.harvard.edu/courses/67793">
+            <a href="https://canvas.harvard.edu/courses/84861">
               Canvas
             </a>
           </li>
