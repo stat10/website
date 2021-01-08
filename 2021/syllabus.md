@@ -21,6 +21,7 @@ The course is officially listed as CS10 and STAT10, but we call it DS10 or Data 
 ### Live Class & Programming Labs
 Tu / Th 1:30-2:45 pm ET
 
+(Schedule)[http://datascience10.org/2021/schedule.html]
 
 ### What is this class about?
 
@@ -131,7 +132,7 @@ This course can be taken for a letter grade only, there is no pass/fail option. 
 
 Group projects receive team grades. In general, we do not anticipate that the grades for each team member will be different. However, we reserve the right to assign different grades to each team member based on peer assessments (see above).
 
-Your participation grade includes watching lecture videos, participation in live classes, submitting one-minute reflections, and being helpful to other students on Piazza and during labs. We will drop your lowest quiz score. Any concerns about grading errors must be clearly articulated in writing and sent to <sabdelmagid@g.harvard.edu> within one week of receiving the grade.
+Your participation grade includes watching lecture videos, participation in live classes, submitting one-minute reflections, and being helpful to other students on Piazza and during labs. We will drop your lowest quiz score. Any concerns about grading errors must be clearly articulated in writing and sent to  our head TF Salma <sabdelmagid@g.harvard.edu> within one week of receiving the grade.
 
 
 ### Course Policies
@@ -166,12 +167,7 @@ If the assignment allows it and for your projects, you may use third-party libra
 
 
 ### Accessibility
-Any student receiving accommodations through the Accessible Education Office should email or present their AEO letter to <sabdelmagid@g.harvard.edu> as soon as possible. Failure to do so may prevent us from making appropriate arrangements.
+Any student receiving accommodations through the Accessible Education Office should email or present their AEO letter to our head TF Salma <sabdelmagid@g.harvard.edu> as soon as possible. Failure to do so may prevent us from making appropriate arrangements.
 
 ### Credits
 The first version of this course was developed 2019-2020 by Joe Blitzstein, Liberty Vittert, Xiao-Li Meng, Hanspeter Pfister, Allen Downey, Salma Abu Ayash, Salma Abdel Magid, Robert Haussman, and Aditya Ranganathan with generous support from the SEAS Learning INCubator (LINC). Most programming lab notebooks were developed by Allen Downey. The course design and materials greatly benefited from the students who took Harvard STAT250 in 2019. We have heavily drawn on materials and examples found online and tried our best to give credit by citing the original sources. Please contact us if you find materials where credit is missing or that you would rather have removed.
-
-### Anonymous Feedback
-Please use this [anonymous survey](https://harvard.az1.qualtrics.com/jfe/form/SV_06TUbRWkS3sHYe9) to give us feedback on any aspect of the class, thank you! 
-
-
