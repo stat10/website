@@ -124,12 +124,13 @@ The teaching fellows will provide online office hours at several different times
 ### Grading
 This course can be taken for a letter grade only, there is no pass/fail option. The course grade comprises:
 
-- Participation (20%)
-- Quizzes (10%)
+- Participation (10%)
+- Exams (20%)
 - Homework Assignments (20%)
 - Guided Project (25%)
 - Final Project (25%)
 
+Homework includes lab notebooks, lab questions, project milestones, and reading quizzes.
 Group projects receive team grades. In general, we do not anticipate that the grades for each team member will be different. However, we reserve the right to assign different grades to each team member based on peer assessments (see above).
 
 Your participation grade includes watching lecture videos, participation in live classes, submitting one-minute reflections, and being helpful to other students on Piazza and during labs. We will drop your lowest quiz score. Any concerns about grading errors must be clearly articulated in writing and sent to  our head TF Salma <sabdelmagid@g.harvard.edu> within one week of receiving the grade.
@@ -144,7 +145,7 @@ For live classes and programming labs on Zoom, please take care to:
 - participate with your camera turned on, using horizontal (not vertical) video.
 
 #### Due Dates & Late Policy
-No submissions (labs, homework, quizzes, project milestones, etc.) will be accepted for credit after the deadline. Homework will be posted on Mondays and will be due the following Sunday. All submissions are due at 11:59 pm ET on the due date.
+No submissions (labs, homework, quizzes, project milestones, etc.) will be accepted for credit after the deadline. Homework will be posted on Mondays and will be due the following Sunday. All submissions are due at 11:59 pm ET on the due date.Your lowest exam score and homework score will be dropped.  
 
 If you have a verifiable medical condition or other special circumstances that interfere with your coursework please let us know as soon as possible. You will need to provide a written note or email from a medical professional or your resident dean confirming your inability to participate in course work.
 
